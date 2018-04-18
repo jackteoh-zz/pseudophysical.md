@@ -137,13 +137,13 @@ canonifyURLs = true
 [[menu.main]]
   name = "Contributor"
   url = "/contributor/"
-  identifier = "fa fa-list"
+  identifier = "fa fa-users"
   weight = 5
 
 [[menu.main]]
   name = "Categories"
   url = "/categories/"
-  identifier = "fa fa-sitemap"
+  identifier = "fa fa-list"
   weight = 6
 
 [[menu.main]]
