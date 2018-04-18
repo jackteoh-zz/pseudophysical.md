@@ -1,10 +1,17 @@
 +++
-title = "Estella Sugawara-Adams"
+type = "itemized"
+author = "White Light Circle"
+date = "2017-06-22"
+title = "Estella Sugawara-Adams, M.S."
+description = "Psych Medium, Healer & Life Coach"
+featured = ""
+featuredpath = ""
+featuredalt = ""
+categories = [""]
+linktitle = ""
+format = "Dallas, TX"
+link = "#"
 +++
-
-Estella Sugawara-Adams, M.S. <br/>
-Psych Medium, Healer & Life Coach <br/>
-White Light Circle <br/>
 
 ### Contact
 Phone: 214-490-7379<br/>
