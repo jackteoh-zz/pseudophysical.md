@@ -129,8 +129,8 @@ canonifyURLs = true
   weight = 3
 
 [[menu.main]]
-  name = "Follower"
-  url = "/follower/"
+  name = "Contributor"
+  url = "/contributor/"
   identifier = "fa fa-list"
   weight = 4
 
