@@ -1,5 +1,5 @@
 title = "PseudoPhysical"
-baseURL = ""
+baseURL = "./"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "./themes/"
