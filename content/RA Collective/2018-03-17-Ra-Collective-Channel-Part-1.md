@@ -1,16 +1,14 @@
 +++
-title = "RA Collective Channel"
+title = "RA Collective Channel - Part 1"
 description = "Q/A Part 1, RA Collective Channel by Aurora"
 date = "2018-03-17"
 categories = ["RA"]
-tags = ["RA", "Energy","Channel","YouTube"]
+tags = ["RA", "Energy","Trance Channel","YouTube"]
 draft = false
 type = "post"
 +++
 
 {{% youtube id="rXQz0EavnIk" autoplay="false"%}}
-
-This is the transcript for Q/A portion only. I tried my best by using my experience from reading the Law of One series to edit the transcript from YouTube.
 
 ---
 

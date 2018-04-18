@@ -1,7 +1,8 @@
-+++
-title = "About"
-date = "2017-01-01"
-+++
+---
+title: "About"
+description: "How I started"
+featured_image: '/images/sunrise.jpg'
+---
 
 It started with a YouTube video where Corey Goode was interviews by David Wilcock. From David Wolcock, i found The Law of One(Ra Material) by L/L Research and started listen to the audio books.
 

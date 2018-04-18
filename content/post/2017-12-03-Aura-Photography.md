@@ -8,7 +8,7 @@ draft = false
 type = "post"
 +++
 
-![Aura](/images/Jack_Auras_120317.jpg)
+![Aura](/images/jack-auras-12-03-17.jpg)
 
 My auras taken at the local holistic festival at the booth. I sat down on the chair facing the camera in a rectangle metal box with a glass panel. Placing my both palm on each side on the device facing down and touching the metal sensor. A yellow spot light shining at me while i am getting ready for my photo to be taken. I am ready ! Is done ! I walked over to the table to pay for my photo while waiting for my picture appear on the white photo.
 
