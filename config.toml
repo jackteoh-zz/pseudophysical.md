@@ -1,4 +1,4 @@
-baseurl = "pseudophysical.com"
+baseurl = "http://pseudophysical.com/"
 languageCode = "en-us"
 title = "PseudoPhysical"
 theme = "hugo-future-imperfect"
