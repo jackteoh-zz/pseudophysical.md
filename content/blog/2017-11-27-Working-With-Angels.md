@@ -1,6 +1,6 @@
 +++
 title = "Working With Angels"
-description = "Working With Angels"
+description = "Working With Angels Fundemental"
 date = "2017-11-27"
 categories = ["Angel"]
 tags = ["Energy","Healing","Angel","Meetup"]
@@ -29,6 +29,6 @@ Thank you Angels for joining me in my journey. It is good to know that you are r
 
 ---
 
-By  
-Rosa Garcia  
-Angel Healer
+By
+
+[Rosa](http://pseudophysical.com/contributor/Rosa-Garcia/)

@@ -57,6 +57,6 @@ Kidneys, blood, skeletal system, immune system, rectum | Arthritis, kidney stone
 ---
 
 By  
-Dina Patel  
-Holistic Health Counselor  
-Butterfly Bliss
+
+Guided by
+[Dina](http://pseudophysical.com/contributor/Dina-Patel/)

@@ -15,7 +15,7 @@ type = "post"
 DNA line traveled from China to Alaska,
 Native American Indian
 
-My Blood Line is incredible where nobody really get sick and it is part of my DNA, It will be discover not for another 20 years, The DNA will show very strong TH health. Example : Immune from "T-virus" 
+My Blood Line is incredible where nobody really get sick and it is part of my DNA, It will be discover not for another 20 years, The DNA will show very strong TH health.
 
 personality traits from bloodline :
 Stubborn with sense of humor

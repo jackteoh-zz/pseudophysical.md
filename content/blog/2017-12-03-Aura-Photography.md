@@ -19,4 +19,4 @@ What i learned is everyone emit aura because we are a form of vibration. I can't
 
 ---
 
-Namaste
+Jack
