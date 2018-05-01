@@ -34,4 +34,4 @@ Close your eyes and concentrate on your breathing. Picture Archangel Rapheal in 
 By  
 
 Guided by
-[Rosa](http://pseudophysical.com/contributor/Rosa-Garcia/)
+[Rosa](http://pseudophysical.com/contributor/rosa-garcia/)

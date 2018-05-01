@@ -35,4 +35,4 @@ Go to your safe place and see your foundation of life. It can be anything you li
 ---
 
 Guided by
-[Dina](http://pseudophysical.com/contributor/Dina-Patel/)
+[Dina](http://pseudophysical.com/contributor/dina-patel/)

@@ -59,4 +59,4 @@ Kidneys, blood, skeletal system, immune system, rectum | Arthritis, kidney stone
 By  
 
 Guided by
-[Dina](http://pseudophysical.com/contributor/Dina-Patel/)
+[Dina](http://pseudophysical.com/contributor/dina-patel/)
